@@ -1,6 +1,3 @@
-Here’s a **refined and professional version** of your `README.md` file, maintaining all your original information but improving structure, tone, formatting, and clarity for maximum impact:
-
----
 
 # 📊 Data Warehouse & Analytics Project
 
